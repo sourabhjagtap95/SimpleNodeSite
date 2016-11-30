@@ -38,9 +38,7 @@ app.use('/', router);
 app.use(express.static(__dirname + '/public'));
 
 //start the server
-app.listen(port, function () {
-	console.log('app started');
-});
+app.listen(process.env.PORT || 5000);
 
 // // route for homepage
 // app.get('/', function (req, res) {
