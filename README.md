@@ -1,3 +1,3 @@
 # SimpleNodeSite
 Simple Node.js Site
-#Demo <a href="https://simpledemo.herokuapp.com/" _blanc></a>
+#Demo https://simpledemo.herokuapp.com/
